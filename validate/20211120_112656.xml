@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20211120_112656.jpg</filename>
+	<path>C:\Users\quoct\OneDrive - Danang University of Technology\Desktop\DataSSD\images\20211120_112656.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>qr code</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1776</xmin>
+			<ymin>1219</ymin>
+			<xmax>2085</xmax>
+			<ymax>1544</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>qr code</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>2361</ymin>
+			<xmax>435</xmax>
+			<ymax>2628</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>barcode</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1181</xmin>
+			<ymin>1178</ymin>
+			<xmax>1776</xmax>
+			<ymax>1569</ymax>
+		</bndbox>
+	</object>
+</annotation>

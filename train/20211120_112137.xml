@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20211120_112137.jpg</filename>
+	<path>C:\Users\quoct\OneDrive - Danang University of Technology\Desktop\DataSSD\images\20211120_112137.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>barcode</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1093</xmin>
+			<ymin>1694</ymin>
+			<xmax>1864</xmax>
+			<ymax>2757</ymax>
+		</bndbox>
+	</object>
+</annotation>
